@@ -1,0 +1,14 @@
+body {
+    background-color:limegreen;
+}
+
+.container{
+    margin-top: 25%;
+}
+
+.screen{
+    margin: auto;
+    padding: 8rem;
+    background-color: greenyellow;
+    text-align: center;
+}
